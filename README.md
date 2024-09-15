@@ -1,4 +1,4 @@
-# Todo List App  
+# TODO-LIST-with-REDUX
 
 This project is a simple Todo List application built with React and Vite. This app allows users to add, delete, and mark tasks as completed.  
 
@@ -17,7 +17,7 @@ To get started with the project, follow these steps:
 
    ```bash  
    git clone https://github.com/IldizovNodirbek/TODO-LIST-with-REDUX.git  
-   cd todo-list-app
+   cd my-crud-redux
    npm install
    npm run dev
 
